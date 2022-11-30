@@ -1,0 +1,11 @@
+body{
+    background: rgb(232, 229, 229) !important;
+}
+
+.card-link{
+    text-decoration: none;
+}
+
+i{
+    width: 100px;
+}
